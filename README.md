@@ -64,3 +64,20 @@ The goal of this analysis is to understand:
 - Top shopping platforms
 - ⁠Factors influencing purchase decisions
 - Product categories by demographic
+
+- ### *3. Visualization*
+
+Dashboards created include:
+1. *Bar Chart:* Average Spend by Platform & Buying Decison Influence
+2. ⁠*Pie Chart:* Gender distribution
+3. *Doughnut Chart:* Payment Method Distribution
+4. *Column Chart:* Product Category by Gender
+
+### *4. Insights & Recommendation*
+#### *Demographics*
+- ⁠Majority of respondents are *18–35 years old*.
+- ⁠Lagos accounts for the highest share of shoppers.
+
+
+
+
