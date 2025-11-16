@@ -66,3 +66,11 @@ The goal of this analysis is to understand:
 - Standardized spelling (‘Transfer’, ‘Physical Store’, etc.)
 - ⁠Converted spend values (numeric [50,000] → ₦50,000)
 - ⁠Categorized spend into High/Medium/Low
+
+### *2. Exploratory Data Analysis (EDA)*
+- ⁠Gender distribution
+- ⁠Spending levels by age group
+- State-by-state shopping behavior
+- Top shopping platforms
+- ⁠Factors influencing purchase decisions
+- Product categories by demographic
