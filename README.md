@@ -90,7 +90,9 @@ Dashboards created include:
 - “Quality” and “Discounts” are the biggest influencers.
 
 ## *📌 Final Deliverables 
+<img width="1050" height="590" alt="Screenshot 2025-11-16 at 12 12 36 PM" src="https://github.com/user-attachments/assets/33c1bb7a-e7e1-4124-b45b-2ab033489af7" />
 
+<img width="1136" height="573" alt="Screenshot 2025-11-16 at 10 55 32 AM" src="https://github.com/user-attachments/assets/bc71c8a1-c14d-4e81-b3e5-dd6bbd17fbb5" />
 
 
 
