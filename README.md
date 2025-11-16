@@ -14,3 +14,5 @@ It contains responses from shoppers describing:*
 ### Total Columns: (12)
 ### Total Respondents: (107)
 
+## Data dictionary
+Illustrations of each columns and their descriptions respectively:
