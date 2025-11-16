@@ -65,7 +65,7 @@ The goal of this analysis is to understand:
 - ⁠Factors influencing purchase decisions
 - Product categories by demographic
 
-- ### *3. Visualization*
+### *3. Visualization*
 
 Dashboards created include:
 1. *Bar Chart:* Average Spend by Platform & Buying Decison Influence
@@ -77,6 +77,20 @@ Dashboards created include:
 #### *Demographics*
 - ⁠Majority of respondents are *18–35 years old*.
 - ⁠Lagos accounts for the highest share of shoppers.
+#### *Financial Behavior*
+- ⁠High spenders (₦100k+) mostly fall within *26–35* age group.
+- Frequent shoppers spend more than occasional ones.
+#### *Shopping Platforms*
+- *WhatApp* dominate across all states.
+- Physical Store is also popular among the 18–25 segment.
+#### *Payment Preferences*
+- *Transfers* are the most preferred method.
+- ⁠Cash is still used by some occasional shoppers.
+#### *Buying Decision Factors*
+- “Quality” and “Discounts” are the biggest influencers.
+
+## *📌 Final Deliverables 
+
 
 
 
