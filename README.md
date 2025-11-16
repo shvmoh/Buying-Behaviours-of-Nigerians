@@ -1,4 +1,4 @@
-# Buying-Behaviours-of-Nigerians-
+# Buying-Behaviours-of-Nigerians
 
 ## *📁 About the Dataset*
 *This dataset captures *consumer buying behavior* across different states and age groups in Nigeria.
@@ -21,7 +21,7 @@ Illustrations of each columns and their descriptions respectively:
                     
 *Gender*: Male / Female 
 
-*Age Range*: 18–25, 26–35, 36–45
+*Age Range*: 18–25, 26–35, 36–45, 46 & above
 
 *Location*: State where shopper resides 
 
@@ -54,4 +54,15 @@ The goal of this analysis is to understand:
    
 *This information can guide marketing teams, retail companies, and business owners in improving targeting, pricing, and product strategy.*
 
+## *🔧 Tools Used*
+- *📋 Excel/Google Forms* – Data collection 
+- *📊 Microsoft Excel* – Data cleaning, formatting & dashboard creation 
+- *⁠🖥️ PowerPoint* – Presentation of insights
 
+# *📈 Key Steps in the Analysis*
+
+### *1. Data Cleaning*
+- ⁠Removed duplicates
+- Standardized spelling (‘Transfer’, ‘Physical Store’, etc.)
+- ⁠Converted spend values (numeric [50,000] → ₦50,000)
+- ⁠Categorized spend into High/Medium/Low
